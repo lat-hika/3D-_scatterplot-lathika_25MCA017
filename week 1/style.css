@@ -1,0 +1,29 @@
+body {
+    background-color: black;
+    color: white;
+    text-align: center;
+    font-family: Arial, sans-serif;
+    margin: 0;
+    padding: 20px;
+}
+
+h1 {
+    color: lightblue;
+}
+
+.controls {
+    margin: 20px auto;
+}
+
+label {
+    margin-right: 10px;
+}
+
+input[type="range"] {
+    width: 250px;
+}
+
+canvas {
+    background-color: black;
+    border: 2px solid gray;
+}
